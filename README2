@@ -1,0 +1,24 @@
+
+steps 
+
+1. Make repo in github 
+2. Clone the repo in your local directory 
+3. Use the command npm init -y or npm init if you want to be more descriptive
+4. Touch index.js or what you named as the entry point
+5. Create your functions and put them in your module exports 
+6. Declare them in your other JS file with require("./mymodule");
+
+```
+module.exports= {
+    beBasic,
+    add,
+    subtract,
+}
+
+const { add, subtract } = require("./mymodule");
+```
+
+7: after that call the functions in your terminal with index.js
+
+8. To add a .gitignore to your assignment you have to touch .gitignore in your console 
+9. Then name the file that you dont want to show up in the gitignore file 

@@ -23,3 +23,7 @@
 
 - [ ] Add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to Github
 - [ ] Submit this assignment by making a `pull request`
+
+
+1. To add a .gitignore to your assignment you have to touch .gitignore in your console 
+2. Then name the file that you dont want to show up in the gitignore file 
