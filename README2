@@ -22,3 +22,5 @@ const { add, subtract } = require("./mymodule");
 
 8. To add a .gitignore to your assignment you have to touch .gitignore in your console 
 9. Then name the file that you dont want to show up in the gitignore file 
+
+link https://github.com/Swolepenguin/node_modules_practice
